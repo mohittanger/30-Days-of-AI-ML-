@@ -1,1 +1,1 @@
-# 30-Days-of-Google-Cloud
+# 30-Days-of-AI-ML
